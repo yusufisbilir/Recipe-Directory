@@ -20,7 +20,7 @@ In the project directory, you can run:
 
 Install node_modules
 
-### `json-server --watch ./data/db.json`
+### `json-server --watch ./src/data/db.json`
 
 Runs fake api server.
 
