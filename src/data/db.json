@@ -47,6 +47,18 @@
       "method": "blah blah",
       "cookingTime": "45 minutes",
       "id": "9-P_Hfr"
+    },
+    {
+      "title": "Chickpea Curry",
+      "ingredients": [
+        "chickpeas",
+        "onions",
+        "rice",
+        "gartic"
+      ],
+      "method": "blablabla",
+      "cookingTime": "35 minutes",
+      "id": "dJZHWQb"
     }
   ]
 }
